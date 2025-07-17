@@ -11,7 +11,7 @@
   <header>
     <h1>Sophia & Nicolas</h1>
     <h2>5–6 Juni 2026</h2>
-    <p style="margin-top: 1rem; font-style: italic;">"Wir heiraten!"</p>
+    <p style="margin-top: 1rem; font-style: italic;">Wir heiraten!</p>
   </header>
 
   <section id="details">
