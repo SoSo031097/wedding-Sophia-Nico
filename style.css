@@ -46,7 +46,7 @@ header {
   background-repeat: no-repeat;
 }
 
-/* Removed the overlay entirely */
+/* Remove the overlay entirely */
 header::before {
   content: "";
   position: absolute;
@@ -70,4 +70,48 @@ header h1 {
 }
 
 header h2 {
-  font-family: 'Merriweathe
+  font-family: 'Merriweather', serif;
+  font-weight: 400;
+  font-size: 1.6rem;
+  font-style: italic;
+  margin-bottom: 1rem;
+}
+
+header p {
+  font-style: italic;
+  font-size: 1rem;
+  letter-spacing: 0.02em;
+}
+
+/* Squiggles removed */
+.squiggle {
+  display: none;
+}
+
+/* Location label style with icon */
+.location-label {
+  text-decoration: underline;
+  font-weight: bold;
+  font-style: normal;
+  white-space: nowrap;
+}
+
+/* Flourishes at the left and right edges */
+body::after, body::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  width: 20px;
+  height: 100%;
+  background: url('https://www.transparenttextures.com/patterns/diagonal-stripes-light.png'); /* Subtle diagonal stripes pattern */
+  background-size: cover;
+  z-index: -1;
+}
+
+body::before {
+  left: 0;  /* Left side */
+}
+
+body::after {
+  right: 0;  /* Right side */
+}
