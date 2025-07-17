@@ -89,3 +89,10 @@ header p {
   right: -50px;
   transform: scaleX(-1);
 }
+
+.location-label {
+  text-decoration: underline;
+  font-weight: bold;
+  font-style: normal;
+  white-space: nowrap;
+}
