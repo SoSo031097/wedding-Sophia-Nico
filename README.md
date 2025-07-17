@@ -8,13 +8,13 @@
 </head>
 <body>
   <header>
-    <h1>Sophia Sorg von Wallis & Nicolas von Wallis</h1>
-    <h2>5–6 June 2026</h2>
+    <h1>Sophia & Nicolas</h1>
+    <h2>5–6 Juni 2026</h2>
     <p style="margin-top: 1rem; font-style: italic;">"Wir heiraten!"</p>
   </header>
 
   <section id="details">
-    <h3>Hochzeitsplan</h3>
+    <h3>Details</h3>
     <p><strong>📅 5 Juni 2026 – 16:00</strong></p>
     <p>Wilkommens BBQ und Aperetif im Gamehl</p>
     <p>Location: Schlosshotel Gamehl, Gamehl 26, 23970 Gamehl</p>
@@ -25,7 +25,7 @@
 
   <section id="rsvp">
     <h3>RSVP</h3>
-    <p>We kindly ask you to confirm your attendance by 1st November 2026.</p>
+    <p>Wir bitten Dich, Deine Teilnahme bis zum 1. November 2025 zu bestätigen:</p>
 
     <iframe 
       src="https://docs.google.com/forms/d/e/1FAIpQLSenBu3Ef2vzoBVaWENj3rgph5LsBBgLZ7NyGDs5ZcTqf1ZkhQ/viewform?embedded=true" width="640" height="1290" frameborder="0" marginheight="0" marginwidth="0">Wird geladen…</iframe> 
