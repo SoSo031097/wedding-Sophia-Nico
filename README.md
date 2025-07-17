@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -30,11 +29,11 @@
   <section id="details">
     <h3>Details</h3>
     <p><strong>📅 5 Juni 2026 – 16:00</strong></p>
-    <p>Wilkommens BBQ und Aperetif im Gamehl</p>
+    <p>Wilkommens BBQ und Aperetif in Gamehl</p>
     <p><span class="location-label">📍 Location</span>: Schlosshotel Gamehl, Gamehl 26, 23970 Gamehl</p>
     <p><strong>📅 6 Juni 2026 – 12:00</strong></p>
     <p>Kirchliche Trauung in Goldebee mit anschließendem Empfang und Feier in Gamehl</p>
-    <p><span class="location-label">📍 Location</span>: Goldebee 1, 23970 Benz und anschließend Schlosshotel Gamehl, Gamehl 26, 23970 Gamehl</p>
+    <p><span class="location-label">📍 Location</span>: Dorfkirche Goldebee, Goldebee 1, 23970 Benz und anschließend Schlosshotel Gamehl, Gamehl 26, 23970 Gamehl</p>
   </section>
 
   <section id="rsvp">
