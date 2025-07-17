@@ -34,15 +34,14 @@ body::before {
 header {
   text-align: center;
   padding: 4rem 1rem 3rem 1rem;
-  background-image: url('https://www.schloss-gamehl.de/wp-content/uploads/Gutshaus-bei-Wismar-im-Herbst-1.jpg'); /* replace with your actual image file name or URL */
+  background-image: url('https://www.schloss-gamehl.de/wp-content/uploads/Gutshaus-bei-Wismar-im-Herbst-1.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   position: relative;
   z-index: 1;
-  color: white; /* Optional: ensure text is readable */
+  color: white;
 }
-
 
 header h1 {
   font-family: 'Playfair Display', serif;
@@ -90,6 +89,7 @@ header p {
   transform: scaleX(-1);
 }
 
+/* Location label style with icon */
 .location-label {
   text-decoration: underline;
   font-weight: bold;
