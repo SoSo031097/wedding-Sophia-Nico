@@ -45,19 +45,11 @@ header {
   background-repeat: no-repeat;
 }
 
-/* Increase the opacity of the overlay to darken the image more */
-header::before {
-  content: "";
-  position: absolute;
-  top: 0; left: 0; right: 0; bottom: 0;
-  background: rgba(0, 0, 0, 0.6); /* Darker overlay for more contrast */
-  z-index: 0;
-}
+/* Removed overlay to allow background to show more clearly */
 
-/* Brighten the text with shadow and force brightness */
 header h1, header h2, header p {
   color: white !important;  /* Force text to be white with more specific rule */
-  text-shadow: 0 0 10px rgba(255, 255, 255, 0.8);  /* Glow effect to make text stand out */
+  text-shadow: 0 0 15px rgba(255, 255, 255, 1);  /* Stronger white glow to make the text pop */
 }
 
 header h1 {
