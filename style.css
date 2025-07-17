@@ -96,11 +96,29 @@ header p {
   white-space: nowrap;
 }
 
-/* Flourishes at the left and right edges of the header */
-header::before, header::after {
+/* Flourishes at the left and right edges of the page */
+body::before, body::after {
   content: "";
-  position: absolute;
+  position: fixed;
   top: 0;
   width: 20px;
   height: 100%;
-  background: url('https://www.transparenttextures.com/patterns/diagonal-stripes-light.png
+  background: url('https://www.transparenttextures.com/patterns/diagonal-stripes-light.png'); /* Subtle diagonal stripes pattern */
+  background-size: cover;
+  z-index: -1;
+}
+
+body::before {
+  left: 0;  /* Left side */
+}
+
+body::after {
+  right: 0;  /* Right side */
+}
+
+/* Optional: Add extra flair (e.g. SVG flourish shapes) */
+body::before {
+  background: url('https://www.transparenttextures.com/patterns/flourish-pattern.svg'); /* Example: SVG flourish pattern */
+  background-size: 100% 100%;
+  background-repeat: repeat-y;
+}
