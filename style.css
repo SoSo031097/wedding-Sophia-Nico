@@ -15,6 +15,7 @@ body {
   margin: 0 auto;
   position: relative;
   min-height: 100vh;
+  z-index: 1;
 }
 
 /* Subtle old rose background flourish */
@@ -25,41 +26,33 @@ body::before {
   right: -100px;
   width: 400px;
   height: 400px;
-  background: radial-gradient(circle at center, rgba(192, 128, 129, 0.15), transparent 70%);
-  pointer-events: none;
-  z-index: 0;
+  background: radial-gradient(circle at center, r
+/* Reset and base styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-/* Header styles */
-header {
-  text-align: center;
-  padding: 4rem 1rem 3rem 1rem;
-  background-color: #ffffff;
+body {
+  font-family: 'Georgia', serif;
+  background-color: #fdf6f0;
+  color: #333333;
+  line-height: 1.8;
+  padding: 0 1.5rem;
+  max-width: 800px;
+  margin: 0 auto;
   position: relative;
+  min-height: 100vh;
   z-index: 1;
 }
 
-header h1 {
-  font-family: 'Playfair Display', serif;
-  font-weight: 700;
-  font-size: 3rem;
-  color: #c08081;
-  margin-bottom: 0.5rem;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-}
-
-header h2 {
-  font-family: 'Merriweather', serif;
-  font-weight: 400;
-  font-size: 1.6rem;
-  color: #b76e79;
-  font-style: italic;
-  margin-bottom: 1rem;
-}
-
-header p {
-  font-style: italic;
-  color: #a67a7a;
-  font-size: 1rem;
-  letter-s
+/* Subtle old rose background flourish */
+body::before {
+  content: "";
+  position: fixed;
+  top: 10%;
+  right: -100px;
+  width: 400px;
+  height: 400px;
+  background: radial-gradient(circle at center, r
