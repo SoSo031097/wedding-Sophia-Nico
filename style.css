@@ -35,11 +35,11 @@ header {
   position: relative;
   text-align: center;
   padding: 4rem 1rem 3rem 1rem;
-  color: white; /* Text color is white */
+  color: white; /* Ensures text in header is white */
   z-index: 1;
   overflow: hidden;
 
-  /* Updated background image */
+  /* Background Image */
   background-image: url('https://banner2.cleanpng.com/20240319/ice/transparent-floral-design-colorful-abstract-floral-pattern-on-black-backgrou65fa5ed3e5fd84.88775020.webp');
   background-size: cover;
   background-position: center;
@@ -51,10 +51,11 @@ header::before {
   content: "";
   position: absolute;
   top: 0; left: 0; right: 0; bottom: 0;
-  background: rgba(0, 0, 0, 0.5); /* Overlay darkens the background to make text stand out */
+  background: rgba(0, 0, 0, 0.5); /* Dark overlay to contrast the text */
   z-index: 0;
 }
 
+/* Text styles */
 header h1, header h2, header p {
   color: #b76e79 !important; /* Dark rose color for header text */
 }
@@ -82,9 +83,9 @@ header p {
   letter-spacing: 0.02em;
 }
 
-/* Squiggles are removed */
+/* Squiggles removed */
 .squiggle {
-  display: none; /* Removed squiggles */
+  display: none;
 }
 
 /* Location label style with icon */
