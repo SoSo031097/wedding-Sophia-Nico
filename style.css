@@ -46,12 +46,12 @@ header {
   background-repeat: no-repeat;
 }
 
-/* Add a dark overlay to make text more readable */
+/* Removed the overlay entirely */
 header::before {
   content: "";
   position: absolute;
   top: 0; left: 0; right: 0; bottom: 0;
-  background: rgba(0, 0, 0, 0.5); /* Dark overlay to contrast the text */
+  background: none; /* No overlay */
   z-index: 0;
 }
 
@@ -70,28 +70,4 @@ header h1 {
 }
 
 header h2 {
-  font-family: 'Merriweather', serif;
-  font-weight: 400;
-  font-size: 1.6rem;
-  font-style: italic;
-  margin-bottom: 1rem;
-}
-
-header p {
-  font-style: italic;
-  font-size: 1rem;
-  letter-spacing: 0.02em;
-}
-
-/* Squiggles removed */
-.squiggle {
-  display: none;
-}
-
-/* Location label style with icon */
-.location-label {
-  text-decoration: underline;
-  font-weight: bold;
-  font-style: normal;
-  white-space: nowrap;
-}
+  font-family: 'Merriweathe
