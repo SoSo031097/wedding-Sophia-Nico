@@ -35,7 +35,7 @@ header {
   position: relative;
   text-align: center;
   padding: 4rem 1rem 3rem 1rem;
-  color: white;
+  color: #white;
   z-index: 1;
   overflow: hidden; /* to contain the overlay */
 
