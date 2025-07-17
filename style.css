@@ -35,7 +35,7 @@ header {
   position: relative;
   text-align: center;
   padding: 4rem 1rem 3rem 1rem;
-  color: #white;
+  color: white; /* Fix: header text is now white */
   z-index: 1;
   overflow: hidden; /* to contain the overlay */
 
@@ -54,12 +54,11 @@ header::before {
   z-index: 0;
 }
 
-
 header h1 {
   font-family: 'Playfair Display', serif;
   font-weight: 700;
   font-size: 3rem;
-  color: #white;
+  color: white; /* Fix: h1 text is white */
   margin-bottom: 0.5rem;
   letter-spacing: 0.06em;
   text-transform: uppercase;
@@ -69,14 +68,14 @@ header h2 {
   font-family: 'Merriweather', serif;
   font-weight: 400;
   font-size: 1.6rem;
-  color: #b76e79;
+  color: white; /* Fix: h2 text is white */
   font-style: italic;
   margin-bottom: 1rem;
 }
 
 header p {
   font-style: italic;
-  color: #a67a7a;
+  color: white; /* Fix: paragraph text is white */
   font-size: 1rem;
   letter-spacing: 0.02em;
 }
