@@ -9,62 +9,57 @@ body {
   font-family: 'Georgia', serif;
   background-color: #fdf6f0;
   color: #333333;
-  line-height: 1.6;
-  padding: 0 1rem;
+  line-height: 1.8;
+  padding: 0 1.5rem;
+  max-width: 800px;
+  margin: 0 auto;
+  position: relative;
+  min-height: 100vh;
+}
+
+/* Subtle old rose background flourish */
+body::before {
+  content: "";
+  position: fixed;
+  top: 10%;
+  right: -100px;
+  width: 400px;
+  height: 400px;
+  background: radial-gradient(circle at center, rgba(192, 128, 129, 0.15), transparent 70%);
+  pointer-events: none;
+  z-index: 0;
 }
 
 /* Header styles */
 header {
   text-align: center;
-  padding: 3rem 1rem;
+  padding: 4rem 1rem 3rem 1rem;
   background-color: #ffffff;
+  position: relative;
+  z-index: 1;
 }
 
 header h1 {
-  font-size: 2.5rem;
+  font-family: 'Playfair Display', serif;
+  font-weight: 700;
+  font-size: 3rem;
   color: #c08081;
   margin-bottom: 0.5rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
 }
 
 header h2 {
-  font-size: 1.5rem;
+  font-family: 'Merriweather', serif;
+  font-weight: 400;
+  font-size: 1.6rem;
   color: #b76e79;
-  font-weight: normal;
-}
-
-/* Section styles */
-section {
-  max-width: 700px;
-  margin: 3rem auto;
-  padding: 1rem;
-  text-align: center;
-  border-top: 1px solid #e6e6e6;
-}
-
-section h3 {
-  color: #c08081;
+  font-style: italic;
   margin-bottom: 1rem;
-  font-size: 1.8rem;
 }
 
-section p {
-  font-size: 1.1rem;
-  margin-bottom: 0.5rem;
-}
-
-/* RSVP Form */
-iframe {
-  width: 100%;
-  border: none;
-  height: 600px;
-  margin-top: 1rem;
-}
-
-/* Footer */
-footer {
-  text-align: center;
-  padding: 1rem 0;
-  font-size: 0.9rem;
-  color: #999999;
-  border-top: 1px solid #e6e6e6;
-}
+header p {
+  font-style: italic;
+  color: #a67a7a;
+  font-size: 1rem;
+  letter-s
