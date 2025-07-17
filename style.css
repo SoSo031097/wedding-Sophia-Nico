@@ -35,21 +35,28 @@ header {
   position: relative;
   text-align: center;
   padding: 4rem 1rem 3rem 1rem;
-  color: #fdf6f0;
+  color: white; /* Text color is white */
   z-index: 1;
   overflow: hidden;
 
-  background-image: 
-    url('https://banner2.cleanpng.com/20240319/ice/transparent-floral-design-colorful-abstract-floral-pattern-on-black-backgrou65fa5ed3e5fd84.88775020.webp'), 
-  background-size: cover, 100% 100%;
-  background-position: center, center;
-  background-repeat: no-repeat, repeat;
+  /* Updated background image */
+  background-image: url('https://banner2.cleanpng.com/20240319/ice/transparent-floral-design-colorful-abstract-floral-pattern-on-black-backgrou65fa5ed3e5fd84.88775020.webp');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
-/* Optional: Increase text glow for more brightness */
+/* Add a dark overlay to make text more readable */
+header::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(0, 0, 0, 0.5); /* Overlay darkens the background to make text stand out */
+  z-index: 0;
+}
+
 header h1, header h2, header p {
-  color: white !important;
-  text-shadow: 0 0 15px rgba(255, 255, 255, 1);
+  color: #b76e79 !important; /* Dark rose color for header text */
 }
 
 header h1 {
@@ -75,24 +82,9 @@ header p {
   letter-spacing: 0.02em;
 }
 
-/* Squiggle decorations on the sides */
+/* Squiggles are removed */
 .squiggle {
-  position: fixed;
-  top: -200px;
-  width: 150px;
-  height: calc(100% + 400px);
-  color: rgba(192, 128, 129, 0.2); /* soft rose tone */
-  z-index: 0;
-  pointer-events: none;
-}
-
-.squiggle.left {
-  left: -50px;
-}
-
-.squiggle.right {
-  right: -50px;
-  transform: scaleX(-1);
+  display: none; /* Removed squiggles */
 }
 
 /* Location label style with icon */
