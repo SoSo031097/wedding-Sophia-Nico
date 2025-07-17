@@ -39,7 +39,7 @@
   </section>
 
   <footer>
-    <p>With love, Sophia & Nicolas</p>
+    <p>Eure Sophia & Nicolas</p>
   </footer>
 </body>
 </html>
