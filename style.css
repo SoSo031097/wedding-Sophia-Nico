@@ -96,22 +96,11 @@ header p {
   white-space: nowrap;
 }
 
-/* Flourishes at the left and right edges */
-body::after, body::before {
+/* Flourishes at the left and right edges of the header */
+header::before, header::after {
   content: "";
   position: absolute;
   top: 0;
   width: 20px;
   height: 100%;
-  background: url('https://www.transparenttextures.com/patterns/diagonal-stripes-light.png'); /* Subtle diagonal stripes pattern */
-  background-size: cover;
-  z-index: -1;
-}
-
-body::before {
-  left: 0;  /* Left side */
-}
-
-body::after {
-  right: 0;  /* Right side */
-}
+  background: url('https://www.transparenttextures.com/patterns/diagonal-stripes-light.png
