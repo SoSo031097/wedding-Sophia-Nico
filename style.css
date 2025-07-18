@@ -91,7 +91,6 @@ header p {
 /* Location label style with icon */
 .location-label {
   text-decoration: underline;
-  font-weight: bold;
   font-style: normal;
   white-space: nowrap;
 }
