@@ -16,6 +16,7 @@ body {
   position: relative;
   min-height: 100vh;
   z-index: 1;
+  overflow-x: visible;
 }
 
 /* Subtle old rose background flourish */
@@ -198,32 +199,34 @@ section:last-of-type {
   }
 }
 
-/* Edge decoration container */
 .edge-decorations {
   position: relative;
+  padding: 2.5rem 0;
+  border-bottom: 1px solid #e0dede;
+  overflow: visible; /* Ensures edge images can overflow container */
+  z-index: 1;
 }
 
-/* Position flourishes at edges */
 .edge {
   position: absolute;
   top: 50%;
-  width: 60px; /* smaller and more elegant */
-  opacity: 0.2; /* semi-transparent */
+  width: 60px;
+  opacity: 0.2;
   transform: translateY(-50%);
+  pointer-events: none;
+  z-index: 0;
 }
 
 .edge.left {
-  left: 0;
+  left: -80px; /* Pulls image further outside */
 }
 
 .edge.right {
-  right: 0;
+  right: -80px;
 }
 
-/* Hide flourishes on small screens */
 @media (max-width: 800px) {
   .edge {
     display: none;
   }
 }
-
