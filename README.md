@@ -34,6 +34,12 @@
     <p><strong>📅 6 Juni 2026 – Beginn um 12:00 Uhr</strong></p>
     <p>Kirchliche Trauung in Goldebee mit anschließendem Empfang und Feier in Gamehl</p>
     <p><span class="location-label">📍 Location</span>: Dorfkirche Goldebee, Goldebee 1, 23970 Benz und anschließend Schlosshotel Gamehl, Gamehl 26, 23970 Gamehl</p>
+    
+    <div class="flourish-text">
+  <img src="https://raw.githubusercontent.com/SoSo031097/wedding-Sophia-Nico/main/assets/images/image.png" alt="" class="flourish">
+  <h2>Sophia & Nico</h2>
+  <img src="https://raw.githubusercontent.com/SoSo031097/wedding-Sophia-Nico/main/assets/images/image.png" alt="" class="flourish">
+</div>
   </section>
 
   <section id="rsvp">
@@ -45,6 +51,12 @@
       width="640" height="1290" frameborder="0" marginheight="0" marginwidth="0">
       Wird geladen…
     </iframe> 
+
+    <div class="flourish-text">
+  <img src="https://raw.githubusercontent.com/SoSo031097/wedding-Sophia-Nico/main/assets/images/image.png" alt="" class="flourish">
+  <h2>Sophia & Nico</h2>
+  <img src="https://raw.githubusercontent.com/SoSo031097/wedding-Sophia-Nico/main/assets/images/image.png" alt="" class="flourish">
+</div>
   </section>
 
   <footer>
