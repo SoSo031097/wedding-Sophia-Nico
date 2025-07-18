@@ -197,3 +197,33 @@ section:last-of-type {
     display: none;
   }
 }
+
+/* Edge decoration container */
+.edge-decorations {
+  position: relative;
+}
+
+/* Position flourishes at edges */
+.edge {
+  position: absolute;
+  top: 50%;
+  width: 60px; /* smaller and more elegant */
+  opacity: 0.2; /* semi-transparent */
+  transform: translateY(-50%);
+}
+
+.edge.left {
+  left: 0;
+}
+
+.edge.right {
+  right: 0;
+}
+
+/* Hide flourishes on small screens */
+@media (max-width: 800px) {
+  .edge {
+    display: none;
+  }
+}
+
