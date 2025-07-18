@@ -121,3 +121,51 @@ body::before {
   background-size: 100% 100%;
   background-repeat: repeat-y;
 }
+
+/* === Layout Improvements === */
+
+/* 1. Section spacing and visual separation */
+section {
+  padding: 2.5rem 0;
+  border-bottom: 1px solid #e0dede;
+}
+section:last-of-type {
+  border-bottom: none;
+}
+
+/* 2. Container class for centered, narrow content */
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+/* 3. Responsive typography and image scaling */
+@media (max-width: 600px) {
+  header h1 {
+    font-size: 2.2rem;
+  }
+
+  header h2 {
+    font-size: 1.3rem;
+  }
+
+  section img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+/* 4. Responsive image gallery grid */
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  padding: 0 1rem;
+}
+
+.gallery img {
+  width: 100%;
+  display: block;
+  border-radius: 0.5rem;
+}
