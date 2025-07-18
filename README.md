@@ -8,19 +8,17 @@
 </head>
 <body>
 
-<div class="edge-decorations">
-  <img src="https://raw.githubusercontent.com/SoSo031097/wedding-Sophia-Nico/main/assets/images/image.png" alt="" class="edge flourish left">
-  <img src="https://raw.githubusercontent.com/SoSo031097/wedding-Sophia-Nico/main/assets/images/image.png" alt="" class="edge flourish right">
-</div>
-
   <header>
     <h1>Sophia & Nicolas</h1>
     <h2>5–6 Juni 2026</h2>
     <p style="margin-top: 1rem; font-style: italic;">Wir heiraten!</p>
   </header>
 
-  <section id="details">
-    <h3>Details</h3>
+    <section id="details" class="edge-decorations">
+  <img src="https://raw.githubusercontent.com/SoSo031097/wedding-Sophia-Nico/main/assets/images/image.png" alt="" class="edge flourish left">
+  <img src="https://raw.githubusercontent.com/SoSo031097/wedding-Sophia-Nico/main/assets/images/image.png" alt="" class="edge flourish right">
+  
+      <h3>Details</h3>
     <p><strong>📅 5 Juni 2026 – Beginn um 16:00 Uhr</strong></p>
     <p>Wilkommens-BBQ und Aperetif in Gamehl</p>
     <p><span class="location-label">📍 Location</span>: Schlosshotel Gamehl, Gamehl 26, 23970 Gamehl</p>
