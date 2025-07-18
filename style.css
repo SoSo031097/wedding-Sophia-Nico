@@ -169,3 +169,31 @@ section:last-of-type {
   display: block;
   border-radius: 0.5rem;
 }
+
+.flourish-text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.flourish-text h2 {
+  margin: 0;
+  font-size: 1.8rem;
+  color: #b76e79;
+  font-family: 'Playfair Display', serif;
+}
+
+.flourish {
+  width: 40px;
+  height: auto;
+  opacity: 0.6;
+}
+
+@media (max-width: 600px) {
+  .flourish {
+    display: none;
+  }
+}
