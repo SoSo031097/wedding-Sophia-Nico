@@ -37,7 +37,6 @@
     
     <div class="flourish-text">
   <img src="https://raw.githubusercontent.com/SoSo031097/wedding-Sophia-Nico/main/assets/images/image.png" alt="" class="flourish">
-  <h2>Sophia & Nico</h2>
   <img src="https://raw.githubusercontent.com/SoSo031097/wedding-Sophia-Nico/main/assets/images/image.png" alt="" class="flourish">
 </div>
   </section>
@@ -54,7 +53,6 @@
 
     <div class="flourish-text">
   <img src="https://raw.githubusercontent.com/SoSo031097/wedding-Sophia-Nico/main/assets/images/image.png" alt="" class="flourish">
-  <h2>Sophia & Nico</h2>
   <img src="https://raw.githubusercontent.com/SoSo031097/wedding-Sophia-Nico/main/assets/images/image.png" alt="" class="flourish">
 </div>
   </section>
