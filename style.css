@@ -39,12 +39,7 @@ header {
   color: white; /* Ensures text in header is white */
   z-index: 1;
   overflow: hidden;
-
-  /* Background Image */
-  background-image: url('https://banner2.cleanpng.com/20240319/ice/transparent-floral-design-colorful-abstract-floral-pattern-on-black-backgrou65fa5ed3e5fd84.88775020.webp');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+  min-height: 400px;
 }
 
 /* Remove the overlay entirely */
@@ -103,7 +98,7 @@ body::before, body::after {
   top: 0;
   width: 120px;
   opacity: 0.8;
-  background: url('https://www.transparenttextures.com/patterns/diagonal-stripes-light.png'); /* Subtle diagonal stripes pattern */
+  background: url('https://i.pinimg.com/736x/31/55/11/315511148cb17ca2670ba036bbee88a3.jpg'); /* Subtle diagonal stripes pattern */
   background-size: cover;
   z-index: -1;
 }
@@ -118,7 +113,7 @@ body::after {
 
 /* Optional: Add extra flair (e.g. SVG flourish shapes) */
 body::before {
-  background: url('https://www.transparenttextures.com/patterns/flourish-pattern.svg'); /* Example: SVG flourish pattern */
+  background: url('https://i.pinimg.com/736x/31/55/11/315511148cb17ca2670ba036bbee88a3.jpg'); /* Example: SVG flourish pattern */
   background-size: 100% 100%;
   background-repeat: repeat-y;
 }
