@@ -30,8 +30,10 @@
       <section id="Dresscode"
       
       <h3>Dresscode</h3>
-    <p><strong>Für die Herren:/strong></p> <p>Am Freitag: XX; Am Samstag tagsüber Anzug oder Smoking, abends Anzug oder Frack</p>
-    <p><strong>Für die Damen:/strong></p> <p>Am Freitag: sommerlich; Am Samstag sommerlich-festlich. Bitte lasst das kleine Schwarze, das feurig Rote und das Brautweiß zu Hause. Wir freuen uns auf eure schönsten Farben!
+    <p><strong>Für die Herren:/strong></p> 
+    <p>Am Freitag: XX; Am Samstag tagsüber Anzug oder Smoking, abends Anzug oder Frack</p>
+    <p><strong>Für die Damen:/strong></p> 
+    <p>Am Freitag: sommerlich; Am Samstag sommerlich-festlich. Bitte lasst das kleine Schwarze, das feurig Rote und das Brautweiß zu Hause. Wir freuen uns auf eure schönsten Farben!
   </section>
 
   <section id="rsvp">
