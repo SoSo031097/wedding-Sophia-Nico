@@ -91,18 +91,6 @@ header p {
   white-space: nowrap;
 }
 
-/* Flourishes at the left and right edges of the page */
-body::before, body::after {
-  content: "";
-  position: fixed;
-  top: 0;
-  width: 120px;
-  opacity: 0.8;
-  background: url('https://i.pinimg.com/736x/31/55/11/315511148cb17ca2670ba036bbee88a3.jpg'); /* Subtle diagonal stripes pattern */
-  background-size: cover;
-  z-index: -1;
-}
-
 body::before {
   left: 0;  /* Left side */
 }
@@ -164,64 +152,4 @@ section:last-of-type {
   width: 100%;
   display: block;
   border-radius: 0.5rem;
-}
-
-.flourish-text {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 1rem;
-  flex-wrap: wrap;
-  text-align: center;
-}
-
-.flourish-text h2 {
-  margin: 0;
-  font-size: 1.8rem;
-  color: #b76e79;
-  font-family: 'Playfair Display', serif;
-}
-
-.flourish {
-  width: 40px;
-  height: auto;
-  opacity: 0.6;
-}
-
-@media (max-width: 600px) {
-  .flourish {
-    display: none;
-  }
-}
-
-.edge-decorations {
-  position: relative;
-  padding: 2.5rem 0;
-  border-bottom: 1px solid #e0dede;
-  overflow: visible; /* Ensures edge images can overflow container */
-  z-index: 1;
-}
-
-.edge {
-  position: absolute;
-  top: 50%;
-  width: 60px;
-  opacity: 0.2;
-  transform: translateY(-50%);
-  pointer-events: none;
-  z-index: 0;
-}
-
-.edge.left {
-  left: -80px; /* Pulls image further outside */
-}
-
-.edge.right {
-  right: -80px;
-}
-
-@media (max-width: 800px) {
-  .edge {
-    display: none;
-  }
 }
