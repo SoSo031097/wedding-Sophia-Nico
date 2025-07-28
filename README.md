@@ -27,7 +27,7 @@
     <p><span class="location-label">📍 Location</span>: Dorfkirche Goldebee, Goldebee 1, 23970 Benz und anschließend Schlosshotel Gamehl, Gamehl 26, 23970 Gamehl</p>
   </section>
 
-      <section id="Dresscode"
+      <section id="Dresscode">
       
       <h3>Dresscode</h3>
     <p><strong>Für die Herren:/strong></p> 
