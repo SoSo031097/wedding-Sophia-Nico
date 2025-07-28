@@ -35,7 +35,7 @@
 
  <section id="Übernachtung">
   <h3>Übernachtung</h3>
-  <p>Wir empfehlen allen, die kein Zimmer in Gamehl bekommen konnten (diese wurden der Familie vorbehalten), ein Zimmer in Wismar zu mieten. Wir werden Taxen am Abend zur Verfügung stellen, die Euch sicher nach Hause bringen. Falls ihr mit dem Auto da seid, würden wir uns sehr freuen, wenn ihr Fahrgemeinschaften organisieren könntet! </p>
+  <p>Wir empfehlen allen, die kein Zimmer in Gamehl bekommen konnten (diese wurden der Familie vorbehalten), sich ein Zimmer in der nahegelegenen Stadt Wismar zu mieten. Wir werden  am Abend Taxen zur Verfügung stellen, die Euch sicher nach Hause bringen werden. Falls ihr mit dem Auto da seid, würden wir uns sehr freuen, wenn ihr Fahrgemeinschaften organisieren könntet!</p>
 </section>
 
   <section id="rsvp">
