@@ -29,8 +29,13 @@
 
    <section id="Dresscode">
   <h3>Dresscode</h3>
-  <p><strong>Für die Herren:</strong> Am Freitag: XX; Am Samstag tagsüber Anzug oder Smoking, abends Anzug oder Frack.</p>
-  <p><strong>Für die Damen:</strong> Am Freitag: sommerlich; Am Samstag sommerlich-festlich. Bitte lasst das kleine Schwarze, das feurig Rote und das Brautweiß zu Hause. Wir freuen uns auf eure schönsten Farben!</p>
+  <p><strong>Für die Herren:</strong> Am Freitag XX; Am Samstag tagsüber Anzug oder Smoking, abends Anzug oder Frack.</p>
+  <p><strong>Für die Damen:</strong> Am Freitag sommerlich; Am Samstag sommerlich-festlich. Bitte lasst das kleine Schwarze (zu ernst), das feurig Rote (zu wild) und das Brautweiß (schon vergeben) zu Hause. Wir freuen uns auf eure schönsten Farben!</p>
+</section>
+
+ <section id="Übernachtung">
+  <h3>Übernachtung</h3>
+  <p>Wir empfehlen allen, die kein Zimmer in Gamehl bekommen konnten (diese wurden der Familie vorbehalten), ein Zimmer in Wismar zu mieten. Wir werden Taxen am Abend zur Verfügung stellen, die Euch sicher nach Hause bringen. Falls ihr mit dem Auto da seid, würden wir uns sehr freuen, wenn ihr Fahrgemeinschaften organisieren könntet! </p>
 </section>
 
   <section id="rsvp">
