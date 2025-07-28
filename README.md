@@ -49,6 +49,7 @@
   </section>
 
   <footer>
+    <p>Wir freuen uns sehr auf Euer kommen!<p>
     <p>Eure Sophia & Nicolas</p>
   </footer>
 
