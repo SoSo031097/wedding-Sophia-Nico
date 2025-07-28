@@ -14,10 +14,7 @@
   </header>
 
     <section id="details" class="edge-decorations">
-  <img src="https://raw.githubusercontent.com/SoSo031097/wedding-Sophia-Nico/main/assets/images/image.png" alt="" class="edge flourish left">
-  <img src="https://raw.githubusercontent.com/SoSo031097/wedding-Sophia-Nico/main/assets/images/image.png" alt="" class="edge flourish right">
-  
-      <h3>Details</h3>
+       <h3>Details</h3>
     <p><strong>📅 5 Juni 2026 – Beginn um 16:00 Uhr bis ca. 23:00</strong></p>
     <p>Wilkommens-Grillen und Aperitif in Gamehl</p>
     <p><span class="location-label">📍 Location</span>: Schlosshotel Gamehl, Gamehl 26, 23970 Gamehl</p>
