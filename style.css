@@ -101,7 +101,7 @@ body::before, body::after {
   content: "";
   position: fixed;
   top: 0;
-  width: 10vw;
+  width: 120px;
   opacity: 0.8;
   background: url('https://www.transparenttextures.com/patterns/diagonal-stripes-light.png'); /* Subtle diagonal stripes pattern */
   background-size: cover;
