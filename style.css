@@ -8,6 +8,10 @@
 body {
   font-family: 'Georgia', serif;
   background-color: #fdf6f0;
+  background-image:
+    radial-gradient(rgba(183,110,121,0.1) 1px, transparent 1px),
+    linear-gradient(135deg, #fdf6f0 0%, #f5d4d8 100%);
+  background-size: 20px 20px;
   color: #333333;
   line-height: 1.8;
   padding: 0 1.5rem;
