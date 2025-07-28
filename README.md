@@ -24,18 +24,18 @@
     <p><strong>📅 6 Juni 2026 – Beginn um 12:00 Uhr bis open end</strong></p>
     <p>Kirchliche Trauung in Goldebee mit anschließendem Empfang und Feier in Gamehl</p>
     <p><span class="location-label">📍 Location</span>: Dorfkirche Goldebee, Goldebee 1, 23970 Benz und anschließend Schlosshotel Gamehl, Gamehl 26, 23970 Gamehl</p>
-    <p>Von Goldebee bis Gamehl könnt ihr entweder einen entspannten Fußmarsch von einer halben Stunde machen, oder in 10 min. mit dem Auto fahren. Wir werden ein paar Autos zur Verfügung stellen, es werden aber darin nicht alle Platz haben können. Wir würden uns freuen, wenn jemand auch mit dem Auto da ist, dass ihr Fahrgemeinschaften organisiert.</p>
+    <p>Von Goldebee bis Gamehl könnt ihr entweder einen entspannten Fußmarsch von einer halben Stunde machen (bitte Schuhauswahl bedenken), oder in 10 min. mit dem Auto fahren. Wir werden ein paar Autos zur Verfügung stellen, es werden aber darin nicht alle Platz haben können. Wir würden uns freuen, wenn ihr mit dem Auto da seid, dass ihr Fahrgemeinschaften organisiert.</p>
   </section>
   
    <section id="Dresscode">
   <h3>Dresscode</h3>
-  <p><strong>Für die Herren:</strong> Am Freitag XX; Am Samstag tagsüber Anzug oder Smoking, abends Anzug oder Frack.</p>
+  <p><strong>Für die Herren:</strong> Am Freitag festlich; Am Samstag festlich (tagsüber Anzug oder Cut-away, abends Anzug oder Smoking)</p>
   <p><strong>Für die Damen:</strong> Am Freitag sommerlich; Am Samstag sommerlich-festlich. Bitte lasst das kleine Schwarze (zu ernst), das feurig Rote (zu wild) und das Brautweiß (schon vergeben) zu Hause. Wir freuen uns auf eure schönsten Farben!</p>
 </section>
 
  <section id="Übernachtung">
   <h3>Übernachtung</h3>
-  <p>Wir empfehlen allen, die kein Zimmer in Gamehl bekommen konnten (diese wurden der Familie vorbehalten), sich ein Zimmer in der nahegelegenen Stadt Wismar zu mieten. Wir werden  am Abend Taxen zur Verfügung stellen, die Euch sicher nach Hause bringen werden. Falls ihr mit dem Auto da seid, würden wir uns sehr freuen, wenn ihr Fahrgemeinschaften organisieren könntet!</p>
+  <p>Wir empfehlen allen, die kein Zimmer in Gamehl bekommen konnten (diese wurden der Familie vorbehalten), sich ein Zimmer in der nahegelegenen Stadt Wismar zu mieten. Wir werden  am Abend Taxen zur Verfügung stellen, die Euch sicher nach Wismar zurück bringen werden. Falls ihr mit dem Auto da seid, würden wir uns sehr freuen, wenn ihr Fahrgemeinschaften organisieren könntet!</p>
 </section>
 
   <section id="rsvp">
