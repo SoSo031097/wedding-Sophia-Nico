@@ -29,13 +29,13 @@
   
    <section id="Dresscode">
   <h3>Dresscode</h3>
-  <p><strong>Für die Herren:</strong> Am Freitag festlich; Am Samstag festlich (tagsüber Anzug oder Cut-away, abends Anzug oder Smoking)</p>
+  <p><strong>Für die Herren:</strong> Am Freitag feierlich; Am Samstag festlich (tagsüber Anzug oder Cut-away, abends Anzug oder Smoking).</p>
   <p><strong>Für die Damen:</strong> Am Freitag sommerlich; Am Samstag sommerlich-festlich. Bitte lasst das kleine Schwarze (zu ernst), das feurig Rote (zu wild) und das Brautweiß (schon vergeben) zu Hause. Wir freuen uns auf eure schönsten Farben!</p>
 </section>
 
  <section id="Übernachtung">
   <h3>Übernachtung</h3>
-  <p>Wir empfehlen allen, die kein Zimmer in Gamehl bekommen konnten (diese wurden der Familie vorbehalten), sich ein Zimmer in der nahegelegenen Stadt Wismar zu mieten. Wir werden  am Abend Taxen zur Verfügung stellen, die Euch sicher nach Wismar zurück bringen werden. Falls ihr mit dem Auto da seid, würden wir uns sehr freuen, wenn ihr Fahrgemeinschaften organisieren könntet!</p>
+  <p>Wir empfehlen allen, die kein Zimmer in Gamehl bekommen konnten (diese wurden der Familie vorbehalten), sich ein Zimmer in Wismar zu mieten. Wir werden am Abend Taxen zur Verfügung stellen, die Euch sicher nach Wismar zurück bringen werden. Falls ihr mit dem Auto da seid, würden wir uns sehr freuen, wenn ihr Fahrgemeinschaften organisieren könntet!</p>
 </section>
 
   <section id="rsvp">
