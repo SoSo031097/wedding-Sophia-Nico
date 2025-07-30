@@ -135,3 +135,7 @@ section:last-of-type {
   pointer-events: none;
   opacity: 0.8;
 }
+
+a {
+  display:none;
+}
