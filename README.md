@@ -23,6 +23,8 @@
     <p><span class="location-label">📍 Location</span>: Dorfkirche Goldebee, Goldebee 1, 23970 Benz und anschließend Schlosshotel Gamehl, Gamehl 26, 23970 Gamehl</p>
     <p>Von Goldebee bis Gamehl könnt ihr entweder einen entspannten Fußmarsch von einer halben Stunde machen (bitte Schuhauswahl bedenken), oder mit dem Auto fahren. Wir werden ein paar Autos zur Verfügung stellen, es werden aber darin nicht alle Platz haben können. Wir würden uns freuen, wenn ihr mit dem Auto da seid, dass ihr Fahrgemeinschaften organisiert.</p>
   </section>
+
+  <div class="divider"></div>
   
    <section id="Dresscode">
   <h3>Dresscode</h3>
@@ -30,10 +32,14 @@
   <p><strong>Für die Damen:</strong> Am Freitag sommerlich; Am Samstag sommerlich-festlich. Bitte lasst das kleine Schwarze (zu ernst), das feurig Rote (zu wild) und das Brautweiß (schon vergeben) zu Hause. Wir freuen uns auf eure schönsten Farben!</p>
 </section>
 
+<div class="divider"></div>
+
  <section id="Übernachtung">
   <h3>Übernachtung</h3>
   <p>Wir empfehlen allen, die kein Zimmer in Gamehl bekommen konnten (diese wurden der Familie vorbehalten), sich ein Zimmer in Wismar zu mieten. Wir werden am Abend Taxen zur Verfügung stellen, die Euch sicher nach Wismar zurück bringen werden. Falls ihr mit dem Auto da seid, würden wir uns sehr freuen, wenn ihr Fahrgemeinschaften organisieren könntet!</p>
 </section>
+
+<div class="divider"></div>
 
   <section id="rsvp">
     <h3>RSVP</h3>
@@ -45,6 +51,8 @@
       Wird geladen…
     </iframe> 
   </section>
+
+<div class="divider"></div>
 
  <section id="Geschenk">
   <h3>Geschenk</h3>
