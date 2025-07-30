@@ -57,7 +57,7 @@ header::before {
 
 /* Text styles */
 header h1, header h2, header p {
-  color: #b76e79 !important; /* Dark rose color for header text */
+  color: #b8404e !important; /* Dark rose color for header text */
 }
 
 header h1 {
