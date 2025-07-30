@@ -123,32 +123,15 @@ section:last-of-type {
   padding: 0 1rem;
 }
 
-/* 3. Responsive typography and image scaling */
-@media (max-width: 600px) {
-  header h1 {
-    font-size: 2.2rem;
-  }
 
-  header h2 {
-    font-size: 1.3rem;
-  }
 
-  section img {
-    width: 100%;
-    height: auto;
-  }
-}
-
-/* 4. Responsive image gallery grid */
-.gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 1rem;
-  padding: 0 1rem;
-}
-
-.gallery img {
-  width: 100%;
-  display: block;
-  border-radius: 0.5rem;
+.side-drawing {
+  position: fixed;
+  top: 15%;
+  right: -60px; /* Adjust to control how far off-screen or on-screen it is */
+  width: 300px;
+  max-width: 30%;
+  z-index: 0;
+  pointer-events: none;
+  opacity: 0.8;
 }
