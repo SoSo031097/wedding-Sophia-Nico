@@ -35,7 +35,6 @@ header {
   position: relative;
   text-align: center;
   padding: 2rem 1rem 1.5rem 1rem;
-  color: white; /* Ensures text in header is white */
   z-index: 1;
   overflow: hidden;
   min-height: 50px;
