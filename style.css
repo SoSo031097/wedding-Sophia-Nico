@@ -100,7 +100,7 @@ body::after {
 
 /* Optional: Add extra flair (e.g. SVG flourish shapes) 
 body::before {
-  background: url('https://i.pinimg.com/736x/31/55/11/315511148cb17ca2670ba036bbee88a3.jpg'); /* Example: SVG flourish pattern */
+  background: url('https://i.pinimg.com/736x/31/55/11/315511148cb17ca2670ba036bbee88a3.jpg');
   background-size: 100% 100%;
   background-repeat: repeat-y;
 }*/
