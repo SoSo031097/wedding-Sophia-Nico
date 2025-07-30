@@ -19,7 +19,7 @@ body {
   overflow-x: visible;
 }
 
-/* Subtle old rose background flourish 
+/* Subtle old rose background flourish */
 body::before {
   position: fixed;
   top: 10%;
@@ -29,7 +29,7 @@ body::before {
   background: radial-gradient(circle at center, rgba(192, 128, 129, 0.15), transparent 70%);
   pointer-events: none;
   z-index: 0;
-}*/
+}
 
 header {
   position: relative;
