@@ -21,7 +21,6 @@ body {
 
 /* Subtle old rose background flourish */
 body::before {
-  content: "";
   position: fixed;
   top: 10%;
   right: -100px;
@@ -39,7 +38,7 @@ header {
   color: white; /* Ensures text in header is white */
   z-index: 1;
   overflow: hidden;
-  min-height: 400px;
+  min-height: 50px;
 }
 
 /* Remove the overlay entirely */
