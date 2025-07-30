@@ -133,7 +133,8 @@ section:last-of-type {
   max-width: 30%;
   z-index: 0;
   pointer-events: none;
-  opacity: 0.8;
+  background: transparent;
+  mix-blend-mode: multiply;
 }
 
 a {
