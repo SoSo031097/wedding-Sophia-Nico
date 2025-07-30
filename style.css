@@ -40,7 +40,7 @@ header {
   min-height: 50px;
 }
 
-/* Remove the overlay entirely 
+/* Remove the overlay entirely */
 header::before {
   content: "";
   position: absolute;
@@ -48,7 +48,7 @@ header::before {
   background: none; /* No overlay */
   z-index: 0;
 }
-*/
+
 /* Text styles */
 header h1, header h2, header p {
   color: #b76e79 !important; /* Dark rose color for header text */
@@ -97,12 +97,12 @@ body::after {
   right: 0;  /* Right side */
 }
 
-/* Optional: Add extra flair (e.g. SVG flourish shapes) 
+/* Optional: Add extra flair (e.g. SVG flourish shapes) */
 body::before {
   background: url('https://i.pinimg.com/736x/31/55/11/315511148cb17ca2670ba036bbee88a3.jpg');
   background-size: 100% 100%;
   background-repeat: repeat-y;
-}*/
+}
 
 /* === Layout Improvements === */
 
