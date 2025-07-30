@@ -13,7 +13,7 @@
     <h2>5–6 Juni 2026</h2>
   </header>
 
-    <section id="details" class="edge-decorations">
+    <section id="details">
        <h3>Details</h3>
     <p><strong>📅 Freitag, 5 Juni 2026 – Beginn um 16:00 Uhr bis ca. 23:00</strong></p>
     <p>Wilkommens-Grillen und Aperitif in Gamehl</p>
