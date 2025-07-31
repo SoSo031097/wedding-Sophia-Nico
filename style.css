@@ -11,8 +11,8 @@ body {
   color: #333333;*/
   /*background-color: #fffcf5;
   background-image: url("https://www.transparenttextures.com/patterns/gray-floral.png");*/
-  background-color: #fefefe;
-  background-image: url("data:image/svg+xml,%3Csvg width='80' height='80' viewBox='0 0 40 40' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%dfe4ff' fill-opacity='0.4' fill-rule='evenodd'%3E%3Cpath d='M0 40L40 0H20L0 20M40 40V20L20 40'/%3E%3C/g%3E%3C/svg%3E");
+  background-color: #ffffff;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='219' height='219' viewBox='0 0 100 100'%3E%3Cg stroke='%23DCDCDC' stroke-width='0' %3E%3Crect fill='%23FFF1F0' x='-60' y='-60' width='110' height='240'/%3E%3C/g%3E%3C/svg%3E");
   background-size: 150px 150px;
   background-repeat: repeat;
   background-size: auto;
