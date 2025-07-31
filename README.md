@@ -15,7 +15,7 @@
 
     <section id="details">
     <h3>Details</h3>
-     <p><strong>📅 Freitag, 5 Juni 2026 – Beginn um 16:00 Uhr bis ca. 23:00</strong></p>
+     <p><strong>📅 Freitag, 5 Juni 2026 – Beginn um 16:00 Uhr bis ca. 23:00 Uhr</strong></p>
      <p>Wilkommens-Grillen und Aperitif in Gamehl</p>
      <p><span class="location-label">📍 Location</span>: Schlosshotel Gamehl, Gamehl 26, 23970 Gamehl</p>
      <p><strong>📅 Samstag, 6 Juni 2026 – Beginn um 12:00 Uhr bis open end</strong></p>
