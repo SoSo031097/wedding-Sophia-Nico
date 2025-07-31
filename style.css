@@ -147,4 +147,16 @@ a {
   display:none;
 }
 
+ul.flower-list {
+  list-style-type: none;       /* Remove default bullets */
+  padding-left: 0;             /* Optional: adjust spacing */
+  margin-left: 1.5rem;         /* Indent from left */
+}
 
+ul.flower-list li::before {
+  content: "🌸";               /* Your custom bullet */
+  display: inline-block;
+  width: 1.2em;                /* Keeps bullets aligned */
+  margin-left: -1.2em;         /* Pulls bullet into left margin */
+  margin-right: 0.5em;         /* Space between bullet and text */
+}
