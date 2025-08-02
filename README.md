@@ -7,7 +7,6 @@
   <link href="https://fonts.googleapis.com/css2?family=Merriweather&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
 </head>
 <body>
-<img src="assets/images/image.png" alt="Floral Drawing" class="side-drawing" />
   <header>
     <h1>Sophia & Nicolas</h1>
     <h2>5 – 6 Juni 2026</h2>
