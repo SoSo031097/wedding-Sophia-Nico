@@ -168,5 +168,5 @@ ul.flower-list li::before {
 }
 
 section p {
-  text-transform: uppercase;
+  text-align: justify;
 }
