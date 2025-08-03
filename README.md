@@ -10,6 +10,7 @@
   <header>
     <h1>Sophia & Nicolas</h1>
     <h2>5 – 6 Juni 2026</h2>
+    <h2>Einladung zur Hochzeit</h2>
   </header>
 
     <section id="details">
