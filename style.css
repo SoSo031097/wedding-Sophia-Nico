@@ -147,16 +147,24 @@ a {
   display:none;
 }
 
+
 ul.flower-list {
-  list-style-type: none;       /* Remove default bullets */
-  padding-left: 0;             /* Optional: adjust spacing */
-  margin-left: 1.5rem;         /* Indent from left */
+  list-style-type: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+ul.flower-list li {
+  position: relative;
+  padding-left: 1.8em; /* Platz für das Emoji */
 }
 
 ul.flower-list li::before {
-  content: "🌸";               /* Your custom bullet */
+  content: "🌸";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1.2em;
   display: inline-block;
-  width: 1.2em;                /* Keeps bullets aligned */
-  margin-left: -1.2em;         /* Pulls bullet into left margin */
-  margin-right: 0.5em;         /* Space between bullet and text */
 }
+
