@@ -37,8 +37,9 @@
    <p>Empehlungen für Hotels:</p>
    <ul class="flower-list">
    <li>Hotel Landhaus Streeck an der B105, 23970 Rüggow/Wismar: ist am nächsten zu Gamehl. Wir haben dort ein Zimmerkondingent auf den Namen Sorg/von Wallis reservieren lassen.</li>
-   <li>Ferienapartment Upstalsboom Krusespeicher in Wismar: falls sich mehrere zusammen tun wollen, bietet diese Webseite auch Apartments für größere Gruppen an.</li>
    <li>Seehotel am Neuklostersee in Seestraße 1, 23992 Nakenstorf: ein sehr schönes Hotel der gehobeneren Preisklasse.</li>
+   <li>Ferienapartments Upstalsboom Krusespeicher in Wismar.</li>
+   <li>Sollten sich mehrere Personen zu einer größeren Gruppe zusammenfinden wollen, gibt es in Wismar einige sehr nette Airbnbs.</li>
 </ul>
 </section>
 
