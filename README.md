@@ -27,7 +27,7 @@
    <section id="Dresscode">
   <h3>Dresscode</h3>
     <p><strong>Für die Damen:</strong> Am Freitag Summer-Chic/Cocktail; Am Samstag festlich-sommerlich. Bitte lasst das kleine Schwarze (zu ernst), das feurig Rote (zu wild) und das Brautweiß (schon vergeben) zu Hause. Wir freuen uns auf eure schönsten Farben!</p>
-     <p><strong>Für die Herren:</strong> Am Freitag feierlich; Am Samstag festlich (tagsüber Anzug oder Cut-away, abends Anzug oder Smoking).</p>
+     <p><strong>Für die Herren:</strong> Am Freitag Summer-Chic; Am Samstag festlich (tagsüber Anzug oder Cut-away, abends Anzug oder Smoking).</p>
 
 </section>
 
