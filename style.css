@@ -167,3 +167,6 @@ ul.flower-list li::before {
   display: inline-block;
 }
 
+section p {
+  text-transform: uppercase;
+}
