@@ -36,8 +36,8 @@
   <p>Wir empfehlen allen, die kein Zimmer in Gamehl bekommen konnten (diese wurden der Familie und Familien mit Kindern vorbehalten), sich ein Zimmer in Wismar und Umgebung zu mieten. Wir werden am Abend zwischen 22:00 Uhr und 2:00 Uhr Taxen bereitstellen, die euch sicher zu eurem jeweiligen Hotel zurückbringen werden. Falls ihr mit dem Auto anreist, würden wir uns sehr freuen, wenn ihr Fahrgemeinschaften bilden könntet!</p>
    <p>Empehlungen für Hotels:</p>
    <ul class="flower-list">
-   <li>Hotel Landhaus Streeck an der B105, 23970 Rüggow/Wismar: ist am nächsten zu Gamehl. Wir haben dort ein Zimmerkondingent auf den Namen Sorg/von Wallis reservieren lassen.</li>
-   <li>Seehotel am Neuklostersee in Seestraße 1, 23992 Nakenstorf: ein sehr schönes Hotel der gehobeneren Preisklasse.</li>
+   <li>Hotel Landhaus Streeck an der B105, 23970 Rüggow/Wismar: ist am nächsten zu Gamehl. Wir haben dort ein Zimmerkondingent auf den Namen Sorg/von Wallis zur Selbstbuchung hinterlegt.</li>
+   <li>Seehotel am Neuklostersee in Seestraße 1, 23992 Nakenstorf: ein sehr schönes gehobeneres Hotel.</li>
    <li>Ferienapartments Upstalsboom Krusespeicher in Wismar.</li>
    <li>Sollten sich mehrere Personen zu einer größeren Gruppe zusammenfinden wollen, gibt es in Wismar einige sehr nette Airbnbs.</li>
 </ul>
