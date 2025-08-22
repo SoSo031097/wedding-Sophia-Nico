@@ -174,3 +174,7 @@ section p {
 hr {
   display: none;
 }
+
+h1, h2, h3 {
+  border-bottom: none !important;
+}
