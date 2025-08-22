@@ -18,8 +18,8 @@
      <p><strong>📅 Freitag, 5. Juni 2026 – Beginn um 16:00 Uhr bis ca. 23:00 Uhr</strong></p>
      <p>Get together und Aperitif in Gamehl</p>
      <p><span class="location-label">📍 Location</span>: Hotel Schloss Gamehl, Gamehl 26, 23970 Gamehl</p>
-     <p><strong>📅 Samstag, 6. Juni 2026 – Beginn um 12:00 Uhr bis open end</strong></p>
-     <p>Kirchliche Trauung in Goldebee </p>
+     <p><strong>📅 Samstag, 6. Juni 2026 – Beginn um 12:00 Uhr (an der Kirche) bis open end (in Gamehl)</strong></p>
+     <p>Zunächst kirchliche Trauung in Goldebee </p>
      <p><span class="location-label">📍 Location</span>: Dorfkirche Goldebee, Goldebee 1, 23970 Benz</p>
      <p>Und anschließend Empfang und Feier in Gamehl</p>
      <p><span class="location-label">📍 Location</span>: Hotel Schloss Gamehl, Gamehl 26, 23970 Gamehl</p>
