@@ -170,3 +170,7 @@ ul.flower-list li::before {
 section p {
   text-align: justify;
 }
+
+hr {
+  display: none;
+}
