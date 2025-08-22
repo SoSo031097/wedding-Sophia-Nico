@@ -21,7 +21,7 @@
      <p><strong>📅 Samstag, 6. Juni 2026 – Beginn um 12:00 Uhr (an der Kirche) bis open end (in Gamehl)</strong></p>
      <p>Zunächst kirchliche Trauung in Goldebee </p>
      <p><span class="location-label">📍 Location</span>: Dorfkirche Goldebee, Goldebee 1, 23970 Benz</p>
-     <p>Und anschließend Empfang und Feier in Gamehl</p>
+     <p>Anschließend Empfang und Feier in Gamehl</p>
      <p><span class="location-label">📍 Location</span>: Hotel Schloss Gamehl, Gamehl 26, 23970 Gamehl</p>
      <p>Von Goldebee bis Gamehl könnt ihr entweder einen 30-minütigen Spaziergang auf einem Feldweg machen (bitte die Schuhauswahl bedenken), oder mit dem Auto fahren. Wir werden ein paar Autos zur Verfügung stellen, es werden aber darin nicht alle Platz haben können. Wenn ihr mit dem Auto da seid, würden wir uns freuen, wenn ihr Fahrgemeinschaften bildet.</p>
   </section>
