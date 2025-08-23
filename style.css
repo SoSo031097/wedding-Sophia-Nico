@@ -114,7 +114,7 @@ body::before {
 
 /* 1. Section spacing and visual separation */
 section {
-  padding: 1.8rem 0;
+  padding: 1.0rem 0;
   border-bottom: none;
 }
 section:last-of-type {
