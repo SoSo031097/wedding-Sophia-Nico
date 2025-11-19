@@ -16,7 +16,7 @@
     <section id="details">
     <h3>Details</h3>
      <p><strong>📅 Freitag, 5. Juni 2026 – Beginn um 16:00 Uhr bis ca. 23:00 Uhr (in Gamehl)</strong></p>
-     <p>Get-together und Aperitif in Gamehl</p>
+     <p>Get-together und Aperitif</p>
      <p><span class="location-label">📍 Location</span>: Hotel Schloss Gamehl, Gamehl 26, 23970 Gamehl</p>
      <p><strong>📅 Samstag, 6. Juni 2026 – Beginn um 12:00 Uhr (an der Kirche) bis open end (in Gamehl)</strong></p>
      <p>Zunächst kirchliche Trauung in Goldebee </p>
