@@ -50,7 +50,7 @@
 
   <section id="rsvp">
     <h3>RSVP</h3>
-    <p>Wir bitten Dich, Deine Teilnahme bis zum 1. Februar 2026 zu bestätigen:</p>
+    <p>Wir bitten Dich, Deine Teilnahme bis zum 15. März 2026 zu bestätigen:</p>
 
     <iframe 
       src="https://docs.google.com/forms/d/e/1FAIpQLSenBu3Ef2vzoBVaWENj3rgph5LsBBgLZ7NyGDs5ZcTqf1ZkhQ/viewform?embedded=true" 
